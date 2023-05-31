@@ -19,7 +19,7 @@ exports[`renders homepage unchanged 1`] = `
       <p
         class="description"
       >
-        Welcome to my new app 4444 
+        Welcome to MY New Empire 
         <code>
           pages/index.js
         </code>
