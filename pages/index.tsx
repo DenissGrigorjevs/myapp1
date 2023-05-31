@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Welcome to my new app 4444 <code>pages/index.js</code>
+          Welcome to MY New Empire <code>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
